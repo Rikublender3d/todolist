@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Rikublender3d/todolist.git/static/css/main.1de34652.css",
-    "main.js": "/Rikublender3d/todolist.git/static/js/main.aed0b4b8.js",
-    "index.html": "/Rikublender3d/todolist.git/index.html",
-    "main.1de34652.css.map": "/Rikublender3d/todolist.git/static/css/main.1de34652.css.map",
-    "main.aed0b4b8.js.map": "/Rikublender3d/todolist.git/static/js/main.aed0b4b8.js.map"
+    "main.css": "/todolist/static/css/main.1de34652.css",
+    "main.js": "/todolist/static/js/main.36c7e8bc.js",
+    "index.html": "/todolist/index.html",
+    "main.1de34652.css.map": "/todolist/static/css/main.1de34652.css.map",
+    "main.36c7e8bc.js.map": "/todolist/static/js/main.36c7e8bc.js.map"
   },
   "entrypoints": [
     "static/css/main.1de34652.css",
-    "static/js/main.aed0b4b8.js"
+    "static/js/main.36c7e8bc.js"
   ]
 }
