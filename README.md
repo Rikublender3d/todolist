@@ -5,6 +5,7 @@
 こちらhttps://rikublender3d.github.io/todolist/ からブラウザ上でお使い頂けます。
 <br>
 Open https://rikublender3d.github.io/todolist/ to view it in your browser.
+<br>
 <ul>
 <li>タスクチェック機能（チェックすると取り消し線が引かれます）</li>
 <li>完了/未完了フィルター機能</li>
