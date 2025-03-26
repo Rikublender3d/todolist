@@ -3,7 +3,7 @@
 シンプルなiOS UI風ToDolistアプリケーションです。
 
 ##使い方/How to Use
-こちらhttps://rikublender3d.github.io/todolist/からブラウザ上でお使い頂けます。
+こちらhttps://rikublender3d.github.io/todolist/ からブラウザ上でお使い頂けます。
 Open https://rikublender3d.github.io/todolist/ to view it in your browser.
 
 <ul>
